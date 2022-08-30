@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="100"/>
  </div>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/jonathanjj0">
+  <a href="https://www.linkedin.com/in/jonathanjj0">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <!---<a href="your-youtube-URL">
@@ -30,7 +30,7 @@
 
 - 🔭 I’m currently working as RPA Consultant helping organizations to design, develop, test, and implement process automation using RPA software.
 - 🌱 I’m currently learning .NET
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jonathanjj0)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanjj0)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -44,3 +44,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### :fire:My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jonathanjj0&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanjj0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
